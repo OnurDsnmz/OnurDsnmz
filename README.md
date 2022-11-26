@@ -2,7 +2,7 @@
 - 🔭 I’m QA Test Automation Engineer
 - 📫 How to reach me: onur.25673@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/onurdüşünmez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/onurdusunmez/)
 
 
 ### Languages and Tools:

@@ -1,4 +1,4 @@
-### Hi there, I'm Onurcan Düşünmez 👋
+### Hi there, I'm Onur Düşünmez 👋
 - 🔭 I’m QA Test Automation Engineer
 - 📫 How to reach me: onur.25673@gmail.com
 
